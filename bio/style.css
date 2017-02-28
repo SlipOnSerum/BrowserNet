@@ -1,0 +1,11 @@
+.register-button {
+border: 2px solid;
+border-radius: 25px;
+height: 25px;
+padding: 10x 40x;
+background-color: yellow;
+}
+.banner {
+background-color: blue;
+border: 0px outset;
+}
